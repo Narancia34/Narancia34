@@ -12,10 +12,16 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/Narancia34">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true&card_width=300" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false&card_width=300" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎨 Some of My 3D Artworks
