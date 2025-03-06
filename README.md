@@ -12,10 +12,10 @@
 
 ![Narancia34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical&include_all_commits=true)
 
-![Narancia34's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narancia34&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=radical&hide_border=false)
 
 ![Narancia34's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narancia34&theme=redical&hide_border=false)
+
+![Narancia34's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narancia34&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narancia34&label=Profile%20views&color=ff69b4&style=flat" alt="narancia34" /> </p>
