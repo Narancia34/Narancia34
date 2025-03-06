@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats:
 
-![Narancia34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Narancia34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Narancia34's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narancia34&theme=radical)
 
