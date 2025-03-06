@@ -10,7 +10,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narancia34&show_icons=true&locale=en" alt="narancia34" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narancia34&" alt="narancia34" /></p>
 
