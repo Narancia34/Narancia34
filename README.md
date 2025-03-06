@@ -8,7 +8,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narancia34&" alt="narancia34" /></p>
+![Narancia34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+![Narancia34's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narancia34&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=radical&hide_border=false)
+
+![Narancia34's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narancia34&theme=redical&hide_border=false)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narancia34&label=Profile%20views&color=ff69b4&style=flat" alt="narancia34" /> </p>
