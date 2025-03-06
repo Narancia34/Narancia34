@@ -11,10 +11,53 @@
 
 ## 📊 GitHub Stats:
 
-![Narancia34's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narancia34&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=radical&hide_border=false)
+![Narancia34's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narancia34&theme=nord&hide_border=false)
 
-![Narancia34's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narancia34&theme=redical&hide_border=false)
+## 🎨 Some of My 3D Artworks
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narancia34&label=Profile%20views&color=ff69b4&style=flat" alt="narancia34" /> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.artstation.com/artwork/Xgryvn">
+          <img src="https://cdnb.artstation.com/p/assets/images/images/074/928/985/large/taha-gamraoui-lighthouse.jpg?1713311570" width="400px" alt="Lighthouse 3D Render"/>
+          <br>
+          <sub><b>Lighthouse</b></sub>
+          <br>
+          <sub>3D environment created in Blender</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.artstation.com/artwork/vJe63D">
+          <img src="https://cdna.artstation.com/p/assets/images/images/075/053/104/large/taha-gamraoui-tadc-3.jpg?1713627069" width="400px" alt="Fantasy Environment Render"/>
+          <br>
+          <sub><b>Fantasy Environment</b></sub>
+          <br>
+          <sub>3D scene created in Blender</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h4>
+          <a href="https://www.artstation.com/narancia34">
+            View My Full Portfolio on ArtStation
+          </a>
+        </h4>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="right">
+  <sub>Last updated: 2025-03-06 20:27:50 UTC | @Narancia34</sub>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narancia34&label=Profile%20views&color=81a1c1&style=flat" alt="narancia34" /> </p>
