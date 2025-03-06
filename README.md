@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm nara</h1>
-<h3 align="center">a 1337 student, and 3d artist</h3>
+<h1 align="left">Hi 👋, I'm nara</h1>
+<h3 align="left">a 1337 student and 3D artist</h3>
 
 [![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahagamraoui@gmail.com)
 [![Spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31paim3w4tvjc5l76pjvw55cx53i)
