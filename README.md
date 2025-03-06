@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm nara</h1>
 <h3 align="center">a 1337 student, and 3d artist</h3>
 
+[![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahagamraoui@gmail.com)
+[![Spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31paim3w4tvjc5l76pjvw55cx53i)
+[![Discord username link](https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1104039931199885442)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
