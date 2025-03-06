@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.artstation.com/artwork/Xgryvn">
+        <a href="https://www.artstation.com/artwork/Ge5gXz">
           <img src="https://cdnb.artstation.com/p/assets/images/images/074/928/985/large/taha-gamraoui-lighthouse.jpg?1713311570" width="400px" alt="Lighthouse 3D Render"/>
           <br>
           <sub><b>Lighthouse</b></sub>
@@ -40,7 +40,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.artstation.com/artwork/vJe63D">
+        <a href="https://www.artstation.com/artwork/ZarEl0">
           <img src="https://cdna.artstation.com/p/assets/images/images/075/053/104/large/taha-gamraoui-tadc-3.jpg?1713627069" width="400px" alt="Fantasy Environment Render"/>
           <br>
           <sub><b>Fantasy Environment</b></sub>
