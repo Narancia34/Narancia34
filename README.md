@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm nara</h1>
+<h1 align="left">Hi 👋, I'm Taha</h1>
 <h3 align="left">a 1337 student and 3D artist</h3>
 
 [![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahagamraoui@gmail.com)
