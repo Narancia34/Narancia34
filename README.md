@@ -12,13 +12,14 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false"/>
+  <a href="https://github.com/Narancia34">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true&card_width=300" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false&card_width=300" />
+  </a>
 </div>
 
-![Narancia34's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narancia34&theme=nord&hide_border=false)
-
 ## 🎨 Some of My 3D Artworks
+
 
 <div align="center">
   <table>
@@ -42,22 +43,11 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h4>
-          <a href="https://www.artstation.com/narancia34">
-            View My Full Portfolio on ArtStation
-          </a>
-        </h4>
-      </td>
-    </tr>
   </table>
 </div>
 
 ---
 
 <div align="right">
-  <sub>Last updated: 2025-03-06 20:27:50 UTC | @Narancia34</sub>
+  <sub>Last updated: 2025-03-06 20:33:53 UTC | @Narancia34</sub>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narancia34&label=Profile%20views&color=81a1c1&style=flat" alt="narancia34" /> </p>
