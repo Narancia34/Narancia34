@@ -11,21 +11,11 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Narancia34&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false" />
 </div>
 
-
 ## 🎨 Some of My 3D Artworks
-
 
 <div align="center">
   <table>
@@ -51,4 +41,3 @@
     </tr>
   </table>
 </div>
-
