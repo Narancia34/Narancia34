@@ -10,12 +10,11 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ## 📊 GitHub Stats:
-
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narancia34&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Narancia34&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narancia34&layout=compact&theme=nord&hide_border=false" />
@@ -23,6 +22,7 @@
     </tr>
   </table>
 </div>
+
 
 ## 🎨 Some of My 3D Artworks
 
@@ -52,8 +52,3 @@
   </table>
 </div>
 
----
-
-<div align="right">
-  <sub>Last updated: 2025-03-06 20:33:53 UTC | @Narancia34</sub>
-</div>
